@@ -1,23 +1,23 @@
 # n8n-twilio-elevenlabs
 
-Proyek ini berisi workflow n8n yang mengintegrasikan teknologi dari **Twilio** dan **ElevenLabs**.
+This project contains n8n workflows that integrate technologies from **Twilio** and **ElevenLabs**.
 
-## Deskripsi
+## Description
 
-Proyek ini akan menyediakan berbagai workflow otomasi menggunakan:
-- **Twilio**: Untuk komunikasi telepon, SMS, dan messaging
-- **ElevenLabs**: Untuk text-to-speech dan voice synthesis
+This project will provide various automation workflows using:
+- **Twilio**: For phone communication, SMS, and messaging
+- **ElevenLabs**: For text-to-speech and voice synthesis
 
 ## Status
 
-🚧 **Coming Soon** - Workflow sedang dalam pengembangan
+🚧 **Coming Soon** - Workflows are under development
 
-## Struktur Project
+## Project Structure
 
-- `main.json` - Workflow utama
-- `sub01.json` - Workflow tambahan
+- `main.json` - Main workflow
+- `sub01.json` - Additional workflow
 
-## Teknologi
+## Technologies
 
 - [n8n](https://n8n.io/) - Workflow automation platform
 - [Twilio](https://www.twilio.com/) - Communication platform
